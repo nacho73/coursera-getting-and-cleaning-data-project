@@ -14,6 +14,7 @@ STANDING: subject was standing
 LAYING: subject was laying
 
 Measurements 
+
 "TimeBodyAccelerometerMeanX"                              
 "TimeBodyAccelerometerMeanY"                              
 "TimeBodyAccelerometerMeanZ"                              
